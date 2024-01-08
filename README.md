@@ -2,14 +2,14 @@
 # VDO PRESENTATION :octocat:
 # CONTENTS :octocat:
 
-|  ᴄʟᴀꜱꜱ   |                     ɴᴀᴍᴇ                        |  ᴡᴏʀᴋꜱʜᴏᴘ     | ʟᴇᴄᴛᴜʀᴇ  |ᴅᴏᴄᴜᴍᴇɴᴛ  |
-|:-------:|:-----------------------------------------------:|:-------------:|:--------:|:---------:|
-|   1     | xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ      | [ɢᴀᴜꜱꜱɪᴀɴ ᴍɪxᴛᴜʀᴇ ᴍᴏᴅᴇʟ](xPore/GMM.ipynb) | Test1 |   [:paperclips:](https://drive.google.com/drive/folders/1WzSEFgym7sDo-3A9etN1a210a0IYmDi_),[:cd:](https://powerclass.org/courses/xpore-an-ai-powered-app-for-bioinformaticians/)      |
-|   2     | ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ʙɪᴏꜱɪɢɴᴀʟ                          |[1ᴅ ᴄɴɴ ꜰᴏʀ ʙʀᴀɪɴ ꜱɪɢɴᴀʟ](Biosignal/model.py) | Test2 | 111|
-|   3     | ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ                 | [ᴄᴏᴅᴇ2ᴠᴇᴄ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴄᴏᴅᴇ ᴄʟᴏɴᴇ](CodeClone/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) | Test3 |111|
-|   4     | ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ | [ɴʟᴘ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴛɪᴏɴ](NLP_classification/PMU_B_CodingAI_NLP_classification_Workshop_ipynb.ipynb) | Test1 |111|
-|   5     | ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ       | [ᴇꜰꜰᴄɪᴇɴᴛɴᴇᴛ: ɪᴍᴀɢᴇ ᴄʟᴀꜱꜱɪꜰɪᴄᴀɪᴛᴏɴ](BiTNet/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) | Test2 |111|
-|   6     | ᴀɪ ꜰᴏʀ ᴀʀʀᴇꜱᴛɪɴɢ ᴄʀɪᴍɪɴᴀʟꜱ                       | [ʏᴏʟᴏ ᴅᴇᴛᴇᴄᴛɪᴏɴ // ꜰᴀᴄᴇ ʀᴇᴄᴏɢɴɪᴛɪᴏɴ](Detection/PMU_B_Train_Yolov8_Object_Detection_on_Custom_Dataset_Workshop.ipynb) | Test3 |111|
+|  ᴄʟᴀꜱꜱ   |                     ɴᴀᴍᴇ                        |   ᴡᴏʀᴋꜱʜᴏᴘ    | ʟᴇᴄᴛᴜʀᴇ   | ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇ |ᴅᴏᴄᴜᴍᴇɴᴛ  |
+|:-------:|:-----------------------------------------------:|:-------------:|:---------:|:-----------:|:------------:|
+|   1     | xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ      | [ɢᴀᴜꜱꜱɪᴀɴ ᴍɪxᴛᴜʀᴇ ᴍᴏᴅᴇʟ](xPore/GMM.ipynb) | Test1 | [:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=9aca74810845f006) |[:paperclips:](https://drive.google.com/drive/folders/1WzSEFgym7sDo-3A9etN1a210a0IYmDi_),[:cd:](https://powerclass.org/courses/xpore-an-ai-powered-app-for-bioinformaticians/)      |
+|   2     | ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ʙɪᴏꜱɪɢɴᴀʟ                          |[1ᴅ ᴄɴɴ ꜰᴏʀ ʙʀᴀɪɴ ꜱɪɢɴᴀʟ](Biosignal/model.py) | Test2 |[:woman_student:]()| 111|
+|   3     | ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ                 | [ᴄᴏᴅᴇ2ᴠᴇᴄ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴄᴏᴅᴇ ᴄʟᴏɴᴇ](CodeClone/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) | Test3 |[:woman_student:]()|111|
+|   4     | ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ | [ɴʟᴘ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴛɪᴏɴ](NLP_classification/PMU_B_CodingAI_NLP_classification_Workshop_ipynb.ipynb) | Test1 |[:woman_student:]()|111|
+|   5     | ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ       | [ᴇꜰꜰᴄɪᴇɴᴛɴᴇᴛ: ɪᴍᴀɢᴇ ᴄʟᴀꜱꜱɪꜰɪᴄᴀɪᴛᴏɴ](BiTNet/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) | Test2 |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=ab6750d5050063e2)|111|
+|   6     | ᴀɪ ꜰᴏʀ ᴀʀʀᴇꜱᴛɪɴɢ ᴄʀɪᴍɪɴᴀʟꜱ                       | [ʏᴏʟᴏ ᴅᴇᴛᴇᴄᴛɪᴏɴ // ꜰᴀᴄᴇ ʀᴇᴄᴏɢɴɪᴛɪᴏɴ](Detection/PMU_B_Train_Yolov8_Object_Detection_on_Custom_Dataset_Workshop.ipynb) | Test3 |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=3177ce091e6b85aa)|111|
 
    ## :pushpin: ᴄʟᴀꜱꜱ 1 : xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ 
 >**xPore** คือ แอปพลิเคชันที่เอาไว้หาตำแหน่งของ RNA modification(m6A) ซึ่งพัฒนาโดยใช้ Machine Learning ผ่านชุดข้อมูลที่ได้มาจากเครื่องมือ Nanopore Sequencing เพื่อมาทำความเข้าใจสัญญาณไฟฟ้าที่ได้ และนำมาเปรียบเทียบสัญญาณไฟฟ้าระหว่างคนที่ปกติ กับคนที่เป็นโรค 
