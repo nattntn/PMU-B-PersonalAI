@@ -4,7 +4,7 @@
 
 |  ᴄʟᴀꜱꜱ   |                     ɴᴀᴍᴇ                        |   ᴡᴏʀᴋꜱʜᴏᴘ    | ʟᴇᴄᴛᴜʀᴇ   | ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇ |ᴅᴏᴄᴜᴍᴇɴᴛ  |
 |:-------:|:-----------------------------------------------:|:-------------:|:---------:|:-----------:|:------------:|
-|   1     | xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ      | [ɢᴀᴜꜱꜱɪᴀɴ ᴍɪxᴛᴜʀᴇ ᴍᴏᴅᴇʟ](xPore/GMM.ipynb) | Test1 | [:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=9aca74810845f006) |[:paperclips:](https://drive.google.com/drive/folders/1WzSEFgym7sDo-3A9etN1a210a0IYmDi_),[:cd:](https://powerclass.org/courses/xpore-an-ai-powered-app-for-bioinformaticians/)      |
+|   1     | xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ      | [ɢᴀᴜꜱꜱɪᴀɴ ᴍɪxᴛᴜʀᴇ ᴍᴏᴅᴇʟ](xPore/GMM.ipynb) | [ʟᴇᴄᴛᴜʀᴇ](xPore/Lecture) | [:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=9aca74810845f006) |[:paperclips:](https://drive.google.com/drive/folders/1WzSEFgym7sDo-3A9etN1a210a0IYmDi_),[:cd:](https://powerclass.org/courses/xpore-an-ai-powered-app-for-bioinformaticians/)      |
 |   2     | ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ʙɪᴏꜱɪɢɴᴀʟ                          |[1ᴅ ᴄɴɴ ꜰᴏʀ ʙʀᴀɪɴ ꜱɪɢɴᴀʟ](Biosignal/model.py) | Test2 |[:woman_student:]()| 111|
 |   3     | ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ                 | [ᴄᴏᴅᴇ2ᴠᴇᴄ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴄᴏᴅᴇ ᴄʟᴏɴᴇ](CodeClone/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) | Test3 |[:woman_student:]()|111|
 |   4     | ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ | [ɴʟᴘ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴛɪᴏɴ](NLP_classification/PMU_B_CodingAI_NLP_classification_Workshop_ipynb.ipynb) | Test1 |[:woman_student:]()|111|
