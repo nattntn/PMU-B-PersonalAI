@@ -6,10 +6,10 @@
 |:-------:|:-----------------------------------------------:|:-------------:|:---------:|:-----------:|:------------:|
 |   1     | xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ      | [ɢᴀᴜꜱꜱɪᴀɴ ᴍɪxᴛᴜʀᴇ ᴍᴏᴅᴇʟ](xPore/GMM.ipynb) | [ʟᴇᴄᴛᴜʀᴇ](xPore/Lecture) | [:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_h=9aca74810845f006) |[:paperclips:](https://drive.google.com/drive/folders/1WzSEFgym7sDo-3A9etN1a210a0IYmDi_),[:cd:](https://powerclass.org/courses/xpore-an-ai-powered-app-for-bioinformaticians/)|
 |   2     | ʟᴇᴀʀɴɪɴɢ ꜰʀᴏᴍ ʙɪᴏꜱɪɢɴᴀʟ                          |[1ᴅ ᴄɴɴ ꜰᴏʀ ʙʀᴀɪɴ ꜱɪɢɴᴀʟ](Biosignal/model.py) | [ʟᴇᴄᴛᴜʀᴇ](Biosignal/learning_from_biosignals.pdf) |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=a10fcc14abfe3a03)|[:paperclips:](https://drive.google.com/drive/folders/1ZWYsgQaMztE_KxHUUT7dp-Z51vSp1Z6q),[:cd:](https://powerclass.org/courses/learning-from-biosignal/)|
-|   3     | ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ                 | [ᴄᴏᴅᴇ2ᴠᴇᴄ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴄᴏᴅᴇ ᴄʟᴏɴᴇ](CodeClone/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) | Test3 |[:woman_student:]()|111|
-|   4     | ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ | [ɴʟᴘ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴛɪᴏɴ](NLP_classification/PMU_B_CodingAI_NLP_classification_Workshop_ipynb.ipynb) | Test1 |[:woman_student:]()|111|
-|   5     | ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ       | [ᴇꜰꜰᴄɪᴇɴᴛɴᴇᴛ: ɪᴍᴀɢᴇ ᴄʟᴀꜱꜱɪꜰɪᴄᴀɪᴛᴏɴ](BiTNet/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) | Test2 |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=ab6750d5050063e2)|111|
-|   6     | ᴀɪ ꜰᴏʀ ᴀʀʀᴇꜱᴛɪɴɢ ᴄʀɪᴍɪɴᴀʟꜱ                       | [ʏᴏʟᴏ ᴅᴇᴛᴇᴄᴛɪᴏɴ // ꜰᴀᴄᴇ ʀᴇᴄᴏɢɴɪᴛɪᴏɴ](Detection/PMU_B_Train_Yolov8_Object_Detection_on_Custom_Dataset_Workshop.ipynb) | Test3 |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=3177ce091e6b85aa)|111|
+|   3     | ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ                 | [ᴄᴏᴅᴇ2ᴠᴇᴄ ᴛᴏ ᴅᴇᴛᴇᴄᴛ ᴄᴏᴅᴇ ᴄʟᴏɴᴇ](CodeClone/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) | [ʟᴇᴄᴛᴜʀᴇ] |[:woman_student:]()|111|
+|   4     | ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ | [ɴʟᴘ ᴄʟᴀꜱꜱɪꜰɪᴄᴀᴛɪᴏɴ](NLP_classification/PMU_B_CodingAI_NLP_classification_Workshop_ipynb.ipynb) | [ʟᴇᴄᴛᴜʀᴇ] |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=0d8200f8847ef8a9)|[:paperclips:](https://drive.google.com/drive/folders/1XYuuqvKlfR0BlUyOTZjtUeFr-Tq5sf44),[:cd:](https://powerclass.org/courses/mental-disorder-detection-from-social-media-data/)|
+|   5     | ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ       | [ᴇꜰꜰᴄɪᴇɴᴛɴᴇᴛ: ɪᴍᴀɢᴇ ᴄʟᴀꜱꜱɪꜰɪᴄᴀɪᴛᴏɴ](BiTNet/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) | [ʟᴇᴄᴛᴜʀᴇ] |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=ab6750d5050063e2)|111|
+|   6     | ᴀɪ ꜰᴏʀ ᴀʀʀᴇꜱᴛɪɴɢ ᴄʀɪᴍɪɴᴀʟꜱ                       | [ʏᴏʟᴏ ᴅᴇᴛᴇᴄᴛɪᴏɴ // ꜰᴀᴄᴇ ʀᴇᴄᴏɢɴɪᴛɪᴏɴ](Detection/PMU_B_Train_Yolov8_Object_Detection_on_Custom_Dataset_Workshop.ipynb) | [ʟᴇᴄᴛᴜʀᴇ] |[:woman_student:](https://powerclass.org/tutor-certificate-3/?cert_hash=3177ce091e6b85aa)|111|
 
 ## :pushpin: ᴄʟᴀꜱꜱ 1 : xᴘᴏʀᴇ: ᴀɴ ᴀɪ-ᴘᴏᴡᴇʀᴇᴅ ᴀᴘᴘ ꜰᴏʀ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄꜱ 
  >**xPore** คือ แอปพลิเคชันที่เอาไว้หาตำแหน่งของ RNA modification(m6A) ซึ่งพัฒนาโดยใช้ Machine Learning ผ่านชุดข้อมูลที่ได้มาจากเครื่องมือ Nanopore Sequencing เพื่อมาทำความเข้าใจสัญญาณไฟฟ้าที่ได้ และนำ มาเปรียบเทียบสัญญาณไฟฟ้าระหว่างคนที่ปกติ กับคนที่เป็นโรค 
@@ -29,3 +29,29 @@
  * **วัตถุประสงค์**
    1. ต้องการวัดประสิทธิภาพการนอนของผู้ป่วยที่บ้าน โดยจะใช้เเค่ 1 คลื่นสัญญาณที่ได้จากสมอง
    2. สร้าง Deep learning model ที่รับ input จากคลื่นสมอง มาทำการเรียนรู้หา patterns ของคลื่นสมอง เพื่อวิเคราะห์ stage ในการนอน และทำการให้คะแนนการนอนของผู้ป่วยได้อย่างมีประสิทธิภาพ
+ 
+## :pushpin: ᴄʟᴀꜱꜱ 3 : ᴀɪ ꜰᴏʀ ᴅᴇᴛᴇᴄᴛɪɴɢ ᴄᴏᴅᴇ ᴘʟᴀɢɪᴀʀɪꜱᴍ
+* **ที่มาและความสำคัญ**
+* **วัตถุประสงค์**
+
+## :pushpin: ᴄʟᴀꜱꜱ 4 : ᴍᴇɴᴛᴀʟ ᴅɪꜱᴏʀᴅᴇʀ ᴅᴇᴛᴇᴄᴛɪᴏɴ ꜰʀᴏᴍ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ᴅᴀᴛᴀ
+> **AI for Detecting** เป็นการพัฒนาตัวแบบเพื่อทำนายคนที่อาจจะมีภาวะซึมเศร้า โดยใช้ข้อมูลจาก Social media
+
+* **ที่มาและความสำคัญ**
+  เนื่องจากว่าคนเราเวลาเศร้า/เครียด/มีความสุข มักที่จะหาสถานที่ในการระบายความรู้สึกของตัวเองให้คนอื่นรับรู้ ซึ่งปัจจุบันสถานที่ที่ได้รับความนิยมมากที่สุดคือ social media ------เหตุผลที่เลือกใช้ข้อมูลบน social media เนื่องจากคนใช้เยอะ real-time และสิ่งที่คนpost ลง social  ก็สามารถสะท้อนความคิด ความชอบ หรือความเครียดของบุคคลได้ ซึ่งการที่เรานำข้อมูลเหล่านั้นมาวิเคราะห์จะทำให้เราสามารถเข้าใจพฤติกรรมของคนได้ ทำให้เราสามารถ นำเสนอสิ่งที่เขาต้องได้ตรงจุด โดยการเสนอขายผ่านสื่อออนไลน์ หรือการเข้าไปช่วยเหลือหากผู้ใช้ใดเกิดภาวะซึมเศร้า
+* **วัตถุประสงค์**
+  1. เพื่อให้คนที่มีภาวะซึมเศร้า/เครียด มีความสุข
+  2. เพื่อช่วยเหลือคนที่มีภาวะซึมเศร้า/เครียด
+
+## :pushpin: ᴄʟᴀꜱꜱ 5 : ʙɪᴛɴᴇᴛ: ᴀɪ ꜰᴏʀ ᴅɪᴀɢɴᴏꜱɪɴɢ ᴜʟᴛʀᴀꜱᴏᴜɴᴅ ɪᴍᴀɢᴇ
+
+* **ที่มาและความสำคัญ**
+* **วัตถุประสงค์**
+
+## :pushpin: ᴄʟᴀꜱꜱ 6 : ᴀɪ ꜰᴏʀ ᴀʀʀᴇꜱᴛɪɴɢ ᴄʀɪᴍɪɴᴀʟꜱ 
+
+* **ที่มาและความสำคัญ**
+* **วัตถุประสงค์**
+
+   
+  
